@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a965412a5bf93af2b58983b1f25bfa81",
+    "revision": "bfc0149d128731143242e10ede8eb1e9",
     "url": "/keyboard/index.html"
   },
   {
-    "revision": "aea5513f51fabfed272d",
+    "revision": "00b0578bc31fa46142b9",
     "url": "/keyboard/static/css/main.23ebef90.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/keyboard/static/js/2.16ad88cf.chunk.js"
   },
   {
-    "revision": "aea5513f51fabfed272d",
-    "url": "/keyboard/static/js/main.337287fd.chunk.js"
+    "revision": "00b0578bc31fa46142b9",
+    "url": "/keyboard/static/js/main.6866ab18.chunk.js"
   },
   {
     "revision": "97af16afc73d52e35237",
