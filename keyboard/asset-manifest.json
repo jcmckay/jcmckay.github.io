@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/keyboard/static/css/main.479bb0f3.chunk.css",
-    "main.js": "/keyboard/static/js/main.4011a355.chunk.js",
-    "main.js.map": "/keyboard/static/js/main.4011a355.chunk.js.map",
+    "main.css": "/keyboard/static/css/main.89e5b956.chunk.css",
+    "main.js": "/keyboard/static/js/main.07ffad73.chunk.js",
+    "main.js.map": "/keyboard/static/js/main.07ffad73.chunk.js.map",
     "runtime-main.js": "/keyboard/static/js/runtime-main.3561f81d.js",
     "runtime-main.js.map": "/keyboard/static/js/runtime-main.3561f81d.js.map",
-    "static/js/2.31a7ec9f.chunk.js": "/keyboard/static/js/2.31a7ec9f.chunk.js",
-    "static/js/2.31a7ec9f.chunk.js.map": "/keyboard/static/js/2.31a7ec9f.chunk.js.map",
+    "static/css/2.2a2afa88.chunk.css": "/keyboard/static/css/2.2a2afa88.chunk.css",
+    "static/js/2.e44c2fb1.chunk.js": "/keyboard/static/js/2.e44c2fb1.chunk.js",
+    "static/js/2.e44c2fb1.chunk.js.map": "/keyboard/static/js/2.e44c2fb1.chunk.js.map",
     "index.html": "/keyboard/index.html",
-    "precache-manifest.f4cc2a9d684e9b1705d6c91fc12e439c.js": "/keyboard/precache-manifest.f4cc2a9d684e9b1705d6c91fc12e439c.js",
+    "precache-manifest.b020e6edc91b10a358a2fde26ff119ee.js": "/keyboard/precache-manifest.b020e6edc91b10a358a2fde26ff119ee.js",
     "service-worker.js": "/keyboard/service-worker.js",
-    "static/css/main.479bb0f3.chunk.css.map": "/keyboard/static/css/main.479bb0f3.chunk.css.map"
+    "static/css/2.2a2afa88.chunk.css.map": "/keyboard/static/css/2.2a2afa88.chunk.css.map",
+    "static/css/main.89e5b956.chunk.css.map": "/keyboard/static/css/main.89e5b956.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.3561f81d.js",
-    "static/js/2.31a7ec9f.chunk.js",
-    "static/css/main.479bb0f3.chunk.css",
-    "static/js/main.4011a355.chunk.js"
+    "static/css/2.2a2afa88.chunk.css",
+    "static/js/2.e44c2fb1.chunk.js",
+    "static/css/main.89e5b956.chunk.css",
+    "static/js/main.07ffad73.chunk.js"
   ]
 }
